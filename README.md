@@ -10,7 +10,7 @@
 **why does this work `alert(5);` but not this `alert(nope sorry doesn’t work);`**
 
 -your answer- 
-I dont know
+I don't know
 
 **how do you put together two strings?**
 
